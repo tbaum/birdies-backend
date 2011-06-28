@@ -6,7 +6,7 @@ require 'birdies-backend/version'
 
 Gem::Specification.new do |s|
   s.name     = "birdies-backend"
-  s.version  = BirdiesBackend::VERSION
+  s.version  = 0.1.2
   s.platform = 'java'
   s.required_ruby_version = ">= 1.8.7"
 
