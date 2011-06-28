@@ -1,8 +1,7 @@
 lib = File.expand_path('../lib/', __FILE__)
 $:.unshift lib unless $:.include?(lib)
 
-require 'birdies-backend/version'
-
+# require 'birdies-backend/version'
 
 Gem::Specification.new do |s|
   s.name     = "birdies-backend"
