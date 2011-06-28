@@ -7,7 +7,7 @@ require 'birdies-backend/tag'
 require 'birdies-backend/tweet'
 require 'birdies-backend/user'
 require 'birdies-backend/tweeters'
-require 'birdies-backend/api'
+require 'birdies-backend/app'
 
 module BirdiesBackend
 
